@@ -24,6 +24,11 @@
 
 <br>
 
-<p></p>
+<p>El desafio de esta ocasión fue el desarrollo de una aplicación Desktop en Java, la cuál se encargará de gestionar a los empleados, húespedes y reservas que se realicen en el Hotel Alura.</p>
 
 ---
+
+### Autora:
+<p align="center">
+<img width="250px" height="400px" src="src/imagenes/me.png">
+</p>
