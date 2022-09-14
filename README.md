@@ -18,13 +18,13 @@
 
 ### 🚧¿En qué Consiste?
 
-<p align="center">
-<img src="src/imagenes/hotelalura.png">
-</p>
+<p>El desafio de esta ocasión fue el desarrollo de una aplicación Desktop en Java, la cuál se encargará de gestionar a los empleados, húespedes y reservas que se realicen en el Hotel Alura.</p>
 
 <br>
 
-<p>El desafio de esta ocasión fue el desarrollo de una aplicación Desktop en Java, la cuál se encargará de gestionar a los empleados, húespedes y reservas que se realicen en el Hotel Alura.</p>
+<p align="center">
+<img src="src/imagenes/hotelalura.png">
+</p>
 
 ---
 
