@@ -30,5 +30,6 @@
 
 ### Autora:
 <p align="center">
-<img width="250px" height="400px" src="src/imagenes/me.png">
+<img width="250px" height="400px" justify-self="center"
+    align-self="center" src="src/imagenes/me.png">
 </p>
